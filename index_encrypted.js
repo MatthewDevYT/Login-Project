@@ -1,0 +1,1 @@
+//To encrypt your javascript go to https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx and paste "index.js" if the script is obfuscated paste it in here//
